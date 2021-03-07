@@ -316,7 +316,8 @@ AUX - see VERB
 * Analyt=Yes  
 * ...Type=
 * Other=
-
+* Hyph=Yes
+* Foreign=Yes
 
 ### Notes on the annotation in other schemas
 
